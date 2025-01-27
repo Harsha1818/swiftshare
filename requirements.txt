@@ -1,0 +1,10 @@
+fastapi                # Web framework for building APIs
+uvicorn                # ASGI server to run FastAPI
+boto3                  # AWS SDK for S3 integration
+python-multipart       # For handling file uploads
+redis                  # For Redis integration
+celery                 # Task queue for background jobs
+pydantic               # Data validation and parsing
+python-jose            # JWT handling for authentication
+passlib[bcrypt]        # Password hashing
+loguru                 # Advanced logging
